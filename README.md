@@ -12,7 +12,7 @@ MuseAI Token Unlocker is an automation tool that simplifies claiming 1 Billion f
 *   **Proxy Recommendation:** You can use [Proxies.fo](https://app.proxies.fo/ref/8b1abd0f-c734-1602-5985-612caedf4c7b) or any other reliable proxy provider.
 *   **Using the App:** Once you have successfully registered and claimed your 1B tokens, you can download the official Muse application. You **DO NOT** need a VPN or proxy to use the app afterward!
   
-FREE PROXY : [cmalf.github.io/web-tools/proxy-hunter](https://cmalf.github.io/web-tools/proxy-hunter)
+### FREE PROXY : [cmalf.github.io/web-tools/proxy-hunter](https://cmalf.github.io/web-tools/proxy-hunter)
 ---
 
 ## 📧 Account Creation Tip
@@ -21,7 +21,7 @@ To ensure a smooth registration and easily pass the credit card age verification
 
 ---
 
-## 🎁 Exclusive Referral Codes
+## 🎁 Exclusive Codes
 
 Use the following exclusive codes to claim your 1B tokens. Each code is **strictly limited to the first 30 users!**
 
