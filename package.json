@@ -1,0 +1,19 @@
+{
+  "name": "MuseAI",
+  "version": "1.0.0",
+  "description": "https://github.com/cmalf/MuseAI-1B-Token-Unlocker",
+  "main": "muse.js",
+  "scripts": {
+    "start": "node muse.js",
+    "scan": "node proxy-scanner.js"
+  },
+  "author": "cmalf",
+  "license": "MIT",
+  "dependencies": {
+    "https-proxy-agent": "^7.0.2",
+    "p-limit": "^3.1.0",
+    "puppeteer-real-browser": "^1.4.2",
+    "readline": "^1.3.0",
+    "socks-proxy-agent": "^8.0.2"
+  }
+}
