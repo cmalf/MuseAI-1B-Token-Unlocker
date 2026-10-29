@@ -11,7 +11,8 @@ MuseAI Token Unlocker is an automation tool that simplifies claiming 1 Billion f
 *   **Non-US Citizens:** You must use a US-region proxy to bypass geographical restrictions during registration.
 *   **Proxy Recommendation:** You can use [Proxies.fo](https://app.proxies.fo/ref/8b1abd0f-c734-1602-5985-612caedf4c7b) or any other reliable proxy provider.
 *   **Using the App:** Once you have successfully registered and claimed your 1B tokens, you can download the official Muse application. You **DO NOT** need a VPN or proxy to use the app afterward!
-
+  
+FREE PROXY : [cmalf.github.io/web-tools/proxy-hunter](https://cmalf.github.io/web-tools/proxy-hunter)
 ---
 
 ## 📧 Account Creation Tip
